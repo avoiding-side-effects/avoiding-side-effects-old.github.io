@@ -3,6 +3,12 @@ Reward function specification can be difficult, even in simple environments. Rew
 
 # SafeLife
 
+## ```prune-still-easy```
+<p align="center">
+<img alt="prune-still-easy, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still-easy_ppo-min.gif"/>
+<img alt="prune-still-easy, AUP" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still-easy_aup-min.gif"/>
+</p>
+
 
 ## ```append-still-easy```
 <p align="center">
@@ -24,9 +30,3 @@ Reward function specification can be difficult, even in simple environments. Rew
 <img alt="append-spawn, AUP" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-spawn_aup-min.gif"/>
 </p>
 
-
-## ```prune-still-easy```
-<p align="center">
-<img alt="prune-still-easy, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still-easy_ppo-min.gif"/>
-<img alt="prune-still-easy, AUP" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still-easy_aup-min.gif"/>
-</p>

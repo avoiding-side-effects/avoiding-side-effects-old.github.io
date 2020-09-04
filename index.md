@@ -11,7 +11,7 @@ In Conway's Game of Life, cells are alive or dead. Depending on how many live ne
 
 ![](https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/img/explanation-caption.png)
 
-As the environment only rewards agents for creating gray cells or for pruning red cells, unpenalized RL agents often make a mess of the green cells. For each of the four following tasks, we randomly generate five curricula of 8 levels each. For each curriculum, we randomly sample a test-time trajectory from the baseline and AUP policy networks. The side-by-side results are shown below; for more quantitative results, see our paper.
+As the environment only rewards agents for pruning red cells or for creating gray cells in blue tiles, unpenalized RL agents often make a mess of the green cells. For each of the four following tasks, we randomly generate five curricula of 8 levels each. For each curriculum, we randomly sample a test-time trajectory from the baseline and AUP policy networks. The side-by-side results are shown below; for more quantitative results, see our paper.
 
 ## ```prune-still-easy```
 

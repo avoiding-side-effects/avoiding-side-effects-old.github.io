@@ -2,7 +2,16 @@ Reward function specification can be difficult, even in simple environments. Rew
 
 # Experiments
 
-![](https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/img/explanation.png)
+In Conway's Game of Life, cells are alive or dead. Depending on how many live neighbors surround a cell, the cell comes to life, dies, or retains its state. Even simple initial conditions can evolve into complex and chaotic patterns. SafeLife turns the Game of Life into an actual game. An autonomous agent moves freely through the world, which is a large finite grid. In the eight cells surrounding the agent, no cells spawn or die – the agent can disturb dynamic patterns  by merely approaching them. There are many colors and kinds of cells, many of which have unique effects.
+
+<p align="center">
+<img alt="append-spawn, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-spawn_ppo-min.gif"/>
+<img alt="prune-still-easy, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_ppo-min.gif"/>
+</p>
+
+![](https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/img/explanation-caption.png)
+
+
 
 ## ```prune-still-easy```
 

@@ -4,10 +4,8 @@ Reward function specification can be difficult, even in simple environments. Rew
 # SafeLife
 
 ## ```prune-still-easy```
-<p align="center">
-<img alt="prune-still-easy, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_ppo-min.gif"/, style="width:45%;">
-<img alt="prune-still-easy, AUP" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_aup-min.gif"/>
-</p>
+
+![prune-still-easy, PPO][https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_ppo-min.gif] ![prune-still-easy, AUP][https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_aup-min.gif]
 
 
 ## ```append-still-easy```

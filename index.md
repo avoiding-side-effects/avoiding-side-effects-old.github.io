@@ -2,7 +2,9 @@ Reward function specification can be difficult, even in simple environments. Rew
 
 # Experiments
 
-In Conway's Game of Life, cells are alive or dead. Depending on how many live neighbors surround a cell, the cell comes to life, dies, or retains its state. Even simple initial conditions can evolve into complex and chaotic patterns. [SafeLife](https://www.partnershiponai.org/safelife/) turns the Game of Life into an actual game. An autonomous agent moves freely through the world, which is a large finite grid. In the eight cells surrounding the agent, no cells spawn or die – the agent can disturb dynamic patterns  by merely approaching them. There are many colors and kinds of cells, many of which have unique effects.
+In Conway's Game of Life, cells are alive or dead. Depending on how many live neighbors surround a cell, the cell comes to life, dies, or retains its state. Even simple initial conditions can evolve into complex and chaotic patterns. 
+
+[SafeLife](https://www.partnershiponai.org/safelife/) turns the Game of Life into an actual game. An autonomous agent moves freely through the world, which is a large finite grid. In the eight cells surrounding the agent, no cells spawn or die – the agent can disturb dynamic patterns  by merely approaching them. There are many colors and kinds of cells, many of which have unique effects.
 
 <p align="center">
 <img alt="append-spawn, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-spawn_ppo-min.gif"/>

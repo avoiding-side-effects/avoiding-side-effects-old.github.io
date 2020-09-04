@@ -2,6 +2,8 @@ Reward function specification can be difficult, even in simple environments. Rew
 
 # Experiments
 
+![](https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/img/explanation.png)
+
 ## ```prune-still-easy```
 
 <p align="center">

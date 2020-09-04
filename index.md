@@ -10,8 +10,8 @@ Reward function specification can be difficult, even in simple environments. Rew
 
 ## ```append-still-easy```
 <p align="center">
-<img alt="append-still-easy, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-still-easy_ppo-min.gif"/>
-<img alt="append-still-easy, AUP" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-still-easy_aup-min.gif"/>
+<img alt="append-still-easy, PPO" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-still-easy_ppo-min.gif"/, width="45%">
+<img alt="append-still-easy, AUP" src="https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/append-still-easy_aup-min.gif"/, width="45%">
 </p>
 
 

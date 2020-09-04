@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Avoiding Side Effects in Complex Environments
-description: Using an unsupervised penalty term to get RL agents to not disrupt their environment.
+description: Making RL agents behave with an unsupervised penalty term. 
 logo: /aup.png
-show_downloads: true
+show_downloads: false
+repo_url: https://github.com/neale/safelife-k2

@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Avoiding Side Effects in Complex Environments
 description: Using an unsupervised penalty term to get RL agents to not disrupt their environment.
 logo: /aup.png

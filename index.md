@@ -5,7 +5,7 @@ Reward function specification can be difficult, even in simple environments. Rew
 
 ## ```prune-still-easy```
 
-![prune-still-easy, PPO][https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_ppo-min.gif] ![prune-still-easy, AUP][https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_aup-min.gif]
+![prune-still-easy, PPO](https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_ppo-min.gif) ![prune-still-easy, AUP](https://raw.githubusercontent.com/avoiding-side-effects/avoiding-side-effects.github.io/master/assets/gifs/prune-still_aup-min.gif)
 
 
 ## ```append-still-easy```
